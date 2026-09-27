@@ -33,11 +33,6 @@ The mobile application is available here:
 **smart-room-finder-mobile**
 `https://github.com/itsaricode/smart-room-finder-mobile`
 
-## 📁 Project Structure
-
-
-
-
 
 ## ⚙️ Installation & Setup
 
