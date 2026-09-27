@@ -64,9 +64,3 @@ npm install
 
 npm run dev
 
-
-The application will be available at the local URL shown in the terminal.
------------ |
-| Frontend  | `smart-room-finder-frontend` |
-| Backend   | `smart-room-finder-backend`  |
-| Mobile    | `smart-room-finder-mobile`   |
