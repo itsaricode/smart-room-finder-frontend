@@ -24,14 +24,14 @@ This application provides the user-facing web interface and communicates with th
 The backend REST API is available here:
 
 **smart-room-finder-backend**
-`https://github.com/itsaricode/smart-room-finder-backend`
+https://github.com/itsaricode/smart-room-finder-backend
 
 ### Mobile Application
 
 The mobile application is available here:
 
 **smart-room-finder-mobile**
-`https://github.com/itsaricode/smart-room-finder-mobile`
+https://github.com/itsaricode/smart-room-finder-mobile
 
 
 ## ⚙️ Installation & Setup
