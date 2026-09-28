@@ -33,7 +33,41 @@ The mobile application is available here:
 **smart-room-finder-mobile**
 https://github.com/itsaricode/smart-room-finder-mobile
 
+## 📁 Project Structure
 
+```text
+smart-room-finder-frontend/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── constants/
+│   ├── hooks/
+│   ├── lib/
+│   ├── pages/
+│   ├── services/
+│   ├── types/
+│   ├── utils/
+│   │
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+│
+├── bun.lock
+├── components.json
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+└── README.md
+```
+
+> Note: The local project directory is named `web-platform`. 
+> It is published as the `smart-room-finder-frontend` GitHub repository.
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
